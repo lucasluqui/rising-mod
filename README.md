@@ -1,4 +1,4 @@
-# rising-mod
+# Rising Mod by Rendel.
 Official Rising Hub's Discord Moderation Bot.
 
 # Settings file
