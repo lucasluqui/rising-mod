@@ -17,8 +17,6 @@ muted: Your muted role ID.
 
 announcement_channel: Channel where bot's boot message is sent.
 
-chat_channel: Your server's main channel.
-
 alerts_channel: Channel ID where you want the bot to send his alerts.
 
 filter_channel: Channel ID where you want the bot to send chat filter alerts.
