@@ -15,7 +15,7 @@ welcome_message: Message sent to server newcomers.
 
 muted: Your muted role ID.
 
-announcement_channel_id: Channel where new member announcements are sent.
+announcement_channel: Channel where bot's boot message is sent.
 
 chat_channel: Your server's main channel.
 
