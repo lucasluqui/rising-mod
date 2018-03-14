@@ -51,7 +51,7 @@ async def on_ready():
         "mutedCheck",
         "chatFilter",
         "errorHandler",
-		"greeting"
+	"greeting"
     )
 
     # Load modules.
