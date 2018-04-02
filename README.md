@@ -1,5 +1,5 @@
 # Rising Mod
-Official Rising Hub's Discord Moderation Bot created by Lucas Allegri (Discord: Rendel#0001)
+Official Rising Hub's Discord Moderation Bot created by Lucas Allegri (Discord: Rendel#9086)
 
 # settings.json
 
