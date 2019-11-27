@@ -1,0 +1,4 @@
+click
+Wavelink
+discord.py
+discord.py[voice]
