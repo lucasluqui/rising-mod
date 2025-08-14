@@ -1,0 +1,17 @@
+{
+    "token": "",
+    "botid": "",
+    "server": "",
+    "prefix": ["~","-"],
+    "status": "your messages",
+    "welcome_message": "**Welcome to Rising Hub!**",
+    "muted": "",
+    "announcement_channel": "",
+    "alerts_channel": "",
+    "filter_channel": "",
+    "suggestions_channel": "",
+    "bugs_channel": "",
+    "votebans_channel": "",
+    "votebanslog_channel": "",
+    "rpctype": 3
+}

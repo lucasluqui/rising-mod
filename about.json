@@ -1,0 +1,7 @@
+{
+    "botname": "Rising Mod",
+    "botdev": "lucasluqui",
+    "botlibrary": "Python, discord.py 0.16.12",
+    "version": "v1.15",
+    "versionday": "January 26th, 2018"
+}
